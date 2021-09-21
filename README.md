@@ -2,12 +2,11 @@
 
 A simple project starter to work with React, NextJS and Styled Components
 
-You can see the example in [https://nextjs-quickstart.now.sh/](https://nextjs-quickstart.now.sh/)
-
 ### 📦 Install
 
 ```
-$ git clone https://github.com/guilouro/simple-nextjs-quick-start.git
+$ git clone https://github.com/rodolforippln/landing-page.git
+
 
 $ yarn install
 ```
